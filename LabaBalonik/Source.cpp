@@ -18,5 +18,5 @@ int main(int argc, char* argv[]) {
     czerwony.zmien_wysokosc(21);
     czerwony.info();
     pompuj(7);
-    cout << endl; system("pause"); return 0;
+    cout << endl; system("pause"); return 0; //Kolya lox
 }
